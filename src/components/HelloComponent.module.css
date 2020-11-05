@@ -1,0 +1,10 @@
+.containerHelloComponent
+{
+    display:flex;
+}
+
+button{
+     background-color:greenyellow;
+     height:50px;
+     width:100px;
+}

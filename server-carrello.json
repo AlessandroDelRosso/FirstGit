@@ -1,0 +1,16 @@
+[
+    {
+        "id": 450,
+        "titolo": "Telefono",
+        "descrizione": "IPhone X",
+        "prezzo": "650",
+        "quantita": 1
+    },
+    {
+        "id": 259,
+        "titolo": "qqq",
+        "descrizione": "qqq",
+        "prezzo": "5",
+        "quantita": 3
+    }
+]
