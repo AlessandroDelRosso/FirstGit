@@ -50,7 +50,7 @@ const Loginpage = () => {
   return (
 
     <>
-    <h1>BENVENUTO {utenteState?.utente?.username??"NESSUNO"}</h1>
+    <h1>benvenuto {utenteState?.utente?.username??"NESSUNO"}</h1>
     <LoginComponent loginPersona = {loginPersona} onChange = {onChange} state = {state}/>
     </>
   );
